@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    background-color:#ebebea;
+    font-family: Arial, Helvetica, sans-serif;
+}
+div {
+    box-sizing: border-box;
+}
+.description p {
+    margin: 0;
+}
+header {
+    background-color: white;
+    padding: 10px;
+}
+header h1 {
+    margin: 0;
+}
+header .frame {
+    margin: auto;
+}
+.frame {
+    margin: auto;
+    margin-top:50px;
+    width: 600px;
+    background-color: white;
+}
+.photo img {
+    width: 100%;
+}
+.photo-header {
+    padding: 10px;
+}
+.photo-title {
+    font-size: 18px;
+    display: inline-block;
+    width: 80%;
+    margin: 0;
+}
+.date {
+    color: gray;
+    display: inline-block;
+    width: 20%;
+    text-align: right;
+    margin: 0;
+}
+.description {
+    align-content: center;
+    padding: 10px;
+}
